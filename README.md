@@ -1,2 +1,2 @@
 # rpi-api
-An API for my Raspberry Pi server
+A set of scripts to control a Raspberry Pi server
